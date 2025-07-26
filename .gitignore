@@ -22,10 +22,16 @@ Thumbs.db
 .env
 *.properties
 
+#Node/react
 node_modules/
+build/
 
+#Python
 __pycache__/
 *.py[cod]
+
+#firebase
+.firebase/
 
 *.bak
 *.tmp
